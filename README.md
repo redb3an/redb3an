@@ -1,6 +1,12 @@
 <h1 align="center">Hey 👋, I'm Gillian Kiu</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gillian-kiu-chi-ern-068237266">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,6 +24,14 @@
 - 🎨 Built a **3D portfolio** to showcase my work in a creative way
 - 🎓 Completed my **Final Year Project** involving full-stack AI development
 - 🚀 Always learning and exploring new technologies
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=redb3an&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -61,6 +75,26 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redb3an&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redb3an&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redb3an/redb3an/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redb3an/redb3an/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/redb3an/redb3an/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
