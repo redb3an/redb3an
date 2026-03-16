@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer+%F0%9F%A4%96;Python+%7C+TypeScript+%7C+JavaScript+%F0%9F%92%BB;Full-Stack+Web+Developer+%F0%9F%8C%90;Building+Intelligent+Systems+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,21 +17,23 @@
 
 ---
 
-### 🧠 Some facts about me
+### 🧠 About Me
 
-- 🤖 I'm an **AI Engineer** who loves building intelligent systems
-- 🌐 Passionate about **web development** and creating interactive experiences
-- 🎨 Built a **3D portfolio** to showcase my work in a creative way
-- 🎓 Completed my **Final Year Project** involving full-stack AI development
-- 🚀 Always learning and exploring new technologies
+- 🤖 **AI Engineer** — building intelligent systems with **Python** (my go-to language, 44% of my code!)
+- 🌐 **Full-Stack Web Developer** — crafting interactive experiences with **TypeScript**, **JavaScript**, **HTML** & **CSS**
+- 🎨 Built a **[3D Portfolio](https://github.com/redb3an/3D-Portfolio-2024)** to showcase my work in a creative, immersive way
+- 🎓 Completed my **[Final Year Project](https://github.com/redb3an/fyp)** — a full-stack AI application built with Python
+- 🎮 Love building fun side projects like my **[Hangman Game](https://github.com/redb3an/Hangman-game)**
+- 🔥 Currently on a contribution streak & leveling up my GitHub presence
+- 🚀 Always learning, always building — exploring new tech every day
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=redb3an&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -59,6 +61,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ---
@@ -87,7 +90,7 @@
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+<!-- ### 🐍 Watch the snake eat my contributions
 
 <p align="center">
   <picture>
@@ -95,7 +98,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redb3an/redb3an/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/redb3an/redb3an/output/github-snake-dark.svg" />
   </picture>
-</p>
+</p> -->
 
 ---
 
